@@ -3,3 +3,4 @@ Kinder Anna pavlova
 Primaria: Doroteo Arango
 Secundaria: Escuela Secundaria Tecnica No.34
 Prepa: Cetis No.108
+Universidad: FCITEC
